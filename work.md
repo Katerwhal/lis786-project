@@ -4,4 +4,4 @@ layout: page
 permalink: /work
 ---
 
-This is where my work and volunteer history will go
+This is where my work and volunteer history will go.
