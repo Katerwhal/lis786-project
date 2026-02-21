@@ -4,4 +4,6 @@ layout: page
 permalink: /projects
 ---
 
-This is where my project main nav page will go.
+{% include project.html
+   category="Collection Management"
+   description="Maintenance, weeding, and general collection management." %}
