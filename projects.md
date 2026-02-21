@@ -2,7 +2,6 @@
 title: Projects
 layout: page
 permalink: /projects
-collmgmt-link: /collmgmt
 ---
 
 {% include project.html
