@@ -1,4 +1,6 @@
-  <h3>{{ {% for item in site.data.navigation %}
-## [{{ item.title }}]({{ item.url }})
-{% endfor %} }}</h3>
+{% for item in site.data.navigation %}
+  {% include linked-heading.html
+     category=item.category
+     url=item.url %}
+{% endfor %}
   <p>{{ include.description }}</p>

@@ -5,5 +5,5 @@ permalink: /projects
 ---
 
 {% include project.html
-    heading="Collection Management"
+    category="Collection Management"
     description="Maintenance, weeding, and general collection management." %}
