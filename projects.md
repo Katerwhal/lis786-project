@@ -6,4 +6,4 @@ permalink: /projects
 
 {% include project.html
    category="Collection Management"
-   description="Maintenance, weeding, and general collection management." %}
+   category-description="Maintenance, weeding, and general collection management." %}
