@@ -10,3 +10,6 @@ defaults:
       type: "collection"
     values:
       layout: collection_item
+
+Author.name: Kate Erickson
+Author.email: KeErickson95@gmail.com
