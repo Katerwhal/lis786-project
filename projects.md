@@ -26,4 +26,3 @@ page_id: projects
     {% include project.md
         category="Web Design"
         description="Web design projects using HTML, CSS, and JS." %}
-{% endfor %}
