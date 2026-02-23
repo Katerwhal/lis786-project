@@ -1,2 +1,18 @@
 - category: Collection Management
   url: /lis786-project/collmgmt
+
+- category: Cataloging/Metadata 
+  url: /lis786-project/catmeta
+
+- category: Archival Work
+  url: /lis786-project/archival
+
+- category: Essays
+  url: /lis786-project/essays
+
+- category: Public Communication
+  url: /lis786-project/pubcomm
+
+- category: Web Design
+  url: /lis786-project/webdesign
+
