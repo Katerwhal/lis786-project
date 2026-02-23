@@ -1,3 +1,3 @@
 
 ## [{{ item.category }}]({{ item.url | relative_url }})
-(item.description)
+{{item.description}}
