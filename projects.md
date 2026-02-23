@@ -2,6 +2,7 @@
 title: Projects
 layout: page
 permalink: /projects
+page_id: projects
 ---
 
 {% include project.html
