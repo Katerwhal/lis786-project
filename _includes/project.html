@@ -1,8 +1,0 @@
-{% for item in site.data.navigation %}
-  {% if item.page == page.page_id %}
-    {% include linked-heading.html
-       title=item.category
-       url=item.url %}
-  {% endif %}
-{% endfor %}
-  <p>{{ include.description }}</p>
