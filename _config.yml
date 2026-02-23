@@ -11,6 +11,8 @@ defaults:
     values:
       layout: collection_item
 
-author: Kate Erickson
+author: 
+  name: Kate Erickson
+  email: Contact@KateInContext.com
 
 description: A site to get to know your next favorite information professional. 
