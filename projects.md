@@ -6,25 +6,6 @@ page_id: projects
 ---
 
 {% for item in site.data.navigation %}
-    {% include project.md
-        category="Collection Management" %}
+    {% include project.md %}
 {% endfor %}
 
-    {% include project.md
-        category="Cataloging/Metadata" %}
-    
-    {% include project.md
-        category="Archival Work"
-        description="Projects I've done in archival settings." %}
-
-    {% include project.md
-        category="Essays"
-        description="Longform, scholarly writing in the field of Information Science." %}
-
-    {% include project.md
-        category="Public Communication"
-        description="Presentations and lessons designed for the general public and information professionals." %}
-
-    {% include project.md
-        category="Web Design"
-        description="Web design projects using HTML, CSS, and JS." %}
