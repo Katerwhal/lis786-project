@@ -5,14 +5,11 @@ permalink: /projects
 page_id: projects
 ---
 
-{% for item in site.data.navigation %}
     {% include project.md
-        category="Collection Management"
-        description="Maintenance, weeding, and discovery." %}
+        category="Collection Management" %}
 
     {% include project.md
-        category="Cataloging/Metadata"
-        description="how I handle data in XML and application profiles." %}
+        category="Cataloging/Metadata" %}
     
     {% include project.md
         category="Archival Work"

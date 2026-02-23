@@ -1,24 +1,30 @@
 - category: Collection Management
   url: /collmgmt
+  description: Maintenance, weeding, and discovery.
   page: projects
 
 - category: Cataloging/Metadata 
   url: /catmeta
+  description: How I handle data in XML and application profiles.
   page: projects
 
 - category: Archival Work
   url: /archival
+  description: Projects I've done in archival settings.
   page: projects
 
 - category: Essays
   url: /essays
+  description: Longform, scholarly writing in the field of Information Science.
   page: projects
 
 - category: Public Communication
   url: /pubcomm
+  description: Presentations and lessons designed for the general public and information professionals.
   page: projects
 
 - category: Web Design
   url: /webdesign
+  description: Web design projects using HTML, CSS, and JS.
   page: projects
 
