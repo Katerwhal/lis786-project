@@ -5,9 +5,11 @@ permalink: /projects
 page_id: projects
 ---
 
+{% for item in site.data.navigation %}
 {% include project.md
     category="Collection Management"
     description="Maintenance, weeding, and discovery." %}
+    {% endfor %}
 
 {% include project.md
     category="Cataloging/Metadata"
