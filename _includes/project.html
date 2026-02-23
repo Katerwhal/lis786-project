@@ -1,6 +1,6 @@
-{% for item in site.data.navigation %}
+<h2>{% for item in site.data.navigation %}
   {% include linked-heading.html
      category=item.category
      url=item.url %}
-{% endfor %}
-  <p>{{ include.description }}</p>
+{% endfor %}</h2>
+  <p>{ { include.description } }</p>
