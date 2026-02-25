@@ -4,4 +4,9 @@ permalink: /archival
 category: Archival Work
 ---
 
-placeholder for archival work subpage
+{% for project in site.projects %}
+{% if project.category == page.category %}
+### {{ project.title }}
+{{ project.content }}
+{% endif %}
+{% endfor %}
