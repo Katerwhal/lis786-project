@@ -5,7 +5,7 @@ category: Collection Management
 ---
 
 {% for project in site.projects %}
-{% if project.category=page.category %}
+{% if project.category == page.category %}
 ### {{ project.title }}
 {{ project.content }}
 {% endif %}
