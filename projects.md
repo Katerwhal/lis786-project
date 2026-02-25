@@ -6,6 +6,6 @@ page_id: projects
 ---
 
 {% for item in site.data.categories %}
-    {% include project.md %}
+    {% include linked-heading.md %}
 {% endfor %}
 
