@@ -1,18 +1,19 @@
 title: Kate in Context
 theme: minima
 collections:
-  collection:
+  projects:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "projects"
     values:
-      layout: collection_item
+      layout: subpage
 
 author: 
   name: Kate Erickson
   email: Contact@KateInContext.com
 
-description: A site to get to know your next favorite information professional. 
+description: Get to know your next favorite information professional. 
+
