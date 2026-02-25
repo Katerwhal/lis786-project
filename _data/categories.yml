@@ -1,6 +1,6 @@
-- category: Collection Management
-  url: /collmgmt
-  description: Maintenance, weeding, and discovery.
+- category: Archival Work
+  url: /archival
+  description: Projects I've done in archival settings.
   page: projects
 
 - category: Cataloging/Metadata 
@@ -8,9 +8,9 @@
   description: How I handle data in XML and application profiles.
   page: projects
 
-- category: Archival Work
-  url: /archival
-  description: Projects I've done in archival settings.
+- category: Collection Management
+  url: /collmgmt
+  description: Maintenance, weeding, and discovery.
   page: projects
 
 - category: Essays
