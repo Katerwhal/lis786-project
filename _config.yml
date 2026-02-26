@@ -1,6 +1,6 @@
 title: Kate in Context
 theme: minima
-skin: solarized
+skin: dark
 collections:
   projects:
     output: true
