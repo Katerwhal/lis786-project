@@ -4,9 +4,26 @@
 @import "{{ site.theme }}";
 
 body {
-    background: #0080C0;
+    background: #B2CCE8;
 }
 
 .site-header {
-    background-color: #008A7D;
+    background-color: #0080C0;
+}
+
+.site-footer {
+    background-color: #0080C0;
+}
+
+a {
+  color: #024016;
+  text-decoration: none;
+
+  &:visited {
+    color: #024016;
+  }
+
+  &:hover {
+    color: $link-hover-color;
+  }
 }
