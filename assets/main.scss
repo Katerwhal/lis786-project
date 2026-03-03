@@ -9,12 +9,15 @@ body {
 
 .site-header {
     background-color: #0080C0;
-    color: black;
 }
 
 .site-footer {
     background-color: #0080C0;
-    color: black;
+}
+
+.footer-col-wrapper,
+.social-links {
+  color: black;
 }
 
 a {
