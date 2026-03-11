@@ -1,7 +1,7 @@
 ---
 layout: subpage
-permalink: /webdesign
-category: Web Design
+permalink: /digital-design
+category: Web/Tool Design
 ---
 
 {% for project in site.projects %}

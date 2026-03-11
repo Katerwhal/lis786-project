@@ -23,8 +23,8 @@
   description: Presentations and lessons designed for the general public and information professionals.
   page: projects
 
-- category: Web Design
-  url: /webdesign
-  description: Web design projects using HTML, CSS, and JS.
+- category: Web/Tool Design
+  url: /digital-design
+  description: Digital tools and web design projects using HTML, CSS, PowerApps, and more.
   page: projects
 
