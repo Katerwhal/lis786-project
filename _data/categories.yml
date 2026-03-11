@@ -1,6 +1,6 @@
 - category: Archival Work
   url: /archival
-  description: Projects I've done in archival settings.
+  description: Projects I've done in archival/museum settings and materials I've worked with.
   page: projects
 
 - category: Cataloging/Metadata 
@@ -15,7 +15,7 @@
 
 - category: Essays
   url: /essays
-  description: Longform, scholarly writing in the field of Information Science.
+  description: Longform, scholarly writing in the fields of information science and history.
   page: projects
 
 - category: Public Communication
