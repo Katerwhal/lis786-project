@@ -5,3 +5,4 @@
 {% endif %}
 {% endfor %}
 
+<a href="/projects">Back to Projects</a>
