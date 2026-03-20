@@ -13,6 +13,6 @@ layout: base
     {{ content }}
   </div>
 
-    <a href={{page.backlink}}>Back to {{page.category}}</a>
+    <a href={{ page.backlink | relative_url }}>Back to {{page.category}}</a>
 
-</article>
+  </article>
