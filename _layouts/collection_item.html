@@ -7,10 +7,8 @@ layout: base
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-{% if post.tags.size > 0 %}
-  Tag{% if post.tags.size > 1 %}s{% endif %}:
-  {{ post.tags | sort | join: ", " }}
-{% endif %}
+{{ post.tags | sort | join: ", " }}
+
 <br><br>
   <div class="post-content">
     {{ content }}
