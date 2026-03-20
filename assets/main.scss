@@ -48,7 +48,6 @@ a {
 }
 
 #top-link {
-  position: absolute;
-  bottom: 100%;
-  left: 0;
+  position: fixed;
+  bottom: 100px;
 }
