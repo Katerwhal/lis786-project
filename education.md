@@ -5,8 +5,8 @@ permalink: /education
 ---
 
 {% for education in site.education %}
-{{ page.degree }}
-{{ page.date }}
-{{ page.location }}
-{{ page.other }}
+{{ education.degree }}
+{{ education.date }}
+{{ education.location }}
+{{ education.other }}
 {% endfor %}
