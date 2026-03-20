@@ -8,7 +8,7 @@ category: education
 {% for education in site.education %}
 {% if education.category == page.category %}
 {{ education.degree }}
-{{ education.date }}
+{{ education.start-date - education.end-date | date: %B %Y }}
 {{ education.location }}
 {{ education.other }}
 {% endif %}
