@@ -1,7 +1,7 @@
 ---
 layout: subpage
-permalink: /digital-design
-category: Web/Tool Design
+permalink: /teachinglearning
+category: Teaching/Learning
 ---
 
 {% include project-cat-page.md %}

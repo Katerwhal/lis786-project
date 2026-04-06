@@ -1,7 +1,7 @@
 ---
 layout: subpage
-permalink: /pubcomm
-category: Public Communication
+permalink: /profcomm
+category: Professional Communication
 ---
 
 {% include project-cat-page.md %}
