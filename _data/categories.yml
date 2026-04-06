@@ -1,17 +1,17 @@
 - category: Archival/Cataloging Work
   url: /archival
-  description: Projects I've done in archival/museum settings and materials I've worked with, as well as examples of my cataloging work with metadata.
+  description: Archival/museum-based projects, materials I've worked with, and examples of my cataloging work with metadata.
   page: projects
 
 - category: Collection Management
   url: /collmgmt
-  description: Projects about the maintenance and selection of materials.
+  description: Projects to do with the maintenance and selection of materials.
   page: projects
 
 - category: Essays
   url: /essays
   description: Longform, scholarly writing in the fields of information science and history.
-  page: projects
+  page: projects 
 
 - category: Professional Communication
   url: /profcomm
