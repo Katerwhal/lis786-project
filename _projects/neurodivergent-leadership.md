@@ -5,7 +5,7 @@ category: Essays
 soft skills:
 compentencies: 
 tags: 
-permalink: /projects/neurodivergent-leadership
+permalink: /projects/essays/neurodivergent-leadership
 description: description placeholder
 backlink: /essays
 ---

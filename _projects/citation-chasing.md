@@ -5,7 +5,7 @@ category: Teaching/Learning
 soft skills:
 compentencies: 
 tags: 
-permalink: /projects/citation-chasing
+permalink: /projects/teachinglearning/citation-chasing
 description: description placeholder
 backlink: /teachinglearning
 ---

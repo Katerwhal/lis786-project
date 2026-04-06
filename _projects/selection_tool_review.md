@@ -5,7 +5,7 @@ category: Collection Management
 soft skills:
 compentencies: 
 tags: 
-permalink: /projects/selection-tool-review
+permalink: /projects/collmgmt/selection-tool-review
 description: description placeholder
 backlink: /collmgmt
 ---

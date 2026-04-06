@@ -5,7 +5,7 @@ category: Essays
 soft skills:
 compentencies: 
 tags: [ Controlled Digital Lending, Access, Policy, Copyright ]
-permalink: /projects/CDL-essay
+permalink: /projects/essays/CDL-essay
 description: description placeholder
 backlink: /essays
 ---
