@@ -1,7 +1,7 @@
 ---
 layout: subpage
 permalink: /archival
-category: Archival Work
+category: Archival/Cataloging Work
 ---
 
 {% include project-cat-page.md %}

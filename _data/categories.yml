@@ -1,11 +1,6 @@
-- category: Archival Work
+- category: Archival/Cataloging Work
   url: /archival
-  description: Projects I've done in archival/museum settings and materials I've worked with.
-  page: projects
-
-- category: Cataloging/Metadata 
-  url: /catmeta
-  description: How I handle data in XML and application profiles.
+  description: Projects I've done in archival/museum settings and materials I've worked with, as well as examples of my cataloging work with metadata.
   page: projects
 
 - category: Collection Management
@@ -18,12 +13,12 @@
   description: Longform, scholarly writing in the fields of information science and history.
   page: projects
 
-- category: Public Communication
-  url: /pubcomm
+- category: Professional Communication
+  url: /profcomm
   description: Presentations and lessons designed for the general public and information professionals.
   page: projects
 
-- category: Web/Tool Design
-  url: /digital-design
-  description: Digital tools and web design projects using HTML, CSS, PowerApps, and more.
+- category: Teaching/Learning
+  url: /teachinglearning
+  description: 
   page: projects
