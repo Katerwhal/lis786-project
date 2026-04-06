@@ -5,7 +5,7 @@
 
 - category: Collection Management
   url: /collmgmt
-  description: Maintenance, weeding, and selection.
+  description: Projects about the maintenance and selection of materials.
   page: projects
 
 - category: Essays
@@ -15,11 +15,11 @@
 
 - category: Professional Communication
   url: /profcomm
-  description: Presentations and lessons designed for the general public and information professionals.
+  description: Professional communication in the information profession.
   page: projects
 
 - category: Teaching/Learning
   url: /teachinglearning
-  description: 
+  description: Presentations and lessons for students and for the general public.
   page: projects
 
