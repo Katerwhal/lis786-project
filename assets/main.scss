@@ -63,13 +63,13 @@ a {
 	}
 }
 
-Img {
+img {
 	max-width: 100%;
 	height: auto;
 }
 
 .clear-fix::after {
-	Content: "";
+	content: "";
 	clear: both;
 	display: table;
 }
