@@ -47,3 +47,29 @@ a {
     background-repeat: no-repeat;
     margin-right: 10px;
 }
+
+.content-left {
+@media all and (min-width: 960px) {
+	width: 33%;
+	float: right;
+	padding-right: 20px;
+	}
+}
+
+.img-right {
+@media all and (min-width: 960px) {
+	width: 33%;
+	float: left;
+	}
+}
+
+Img {
+	max-width: 100%;
+	height: auto;
+}
+
+.clear-fix::after {
+	Content: "";
+	clear: both;
+	display: table;
+}
