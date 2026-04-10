@@ -1,5 +1,5 @@
 ---
-Job-title: Newsletter Editor/Webmaster
+job-title: Newsletter Editor/Webmaster
 employer: The Blend Chorus
 start-date: September 2025
 end-date: Current
