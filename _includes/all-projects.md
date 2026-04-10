@@ -1,5 +1,5 @@
 {% for project in site.projects %}
-### [{{ project.title ({{ project.category }}) }}]({{ project.permalink | relative_url }}) ⮕
+### [{{ project.title }} ({{ project.category }})]({{ project.permalink | relative_url }}) ⮕
 
 {% if project.description.size > 0 %}
   {{ project.description }}
