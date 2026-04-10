@@ -9,4 +9,4 @@ page_id: projects
     {% include linked-heading.md %}
 {% endfor %}
 
-<a href="/lis786-project/all-projects">Back to Projects ⮌</a>
+## <a href="/lis786-project/all-projects">All Projects ⮕</a>
