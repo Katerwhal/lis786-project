@@ -2,7 +2,7 @@
 layout: collection_item
 title: Neurodivergent Leadership
 category: Essays
-soft skills:
+skills:
 compentencies: 
 tags: 
 permalink: /projects/essays/neurodivergent-leadership
