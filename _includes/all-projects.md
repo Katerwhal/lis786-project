@@ -1,5 +1,3 @@
-{% assign sorted_projects = site.projects | sort_natural: "title" %}
-
 {% for project in site.projects %}
 ### [{{ project.title }}]({{ project.permalink | relative_url }}) ({{ project.category }}) ⮕
 
