@@ -17,6 +17,7 @@
   {% endif %}
 {% if project.description > 0 %}
   Description: {{ project.description }}
+  {% endif %}
 
 ***
 
