@@ -1,7 +1,7 @@
 {% for project in site.projects %}
 ### [{{ project.title }}]({{ project.permalink | relative_url }}) ⮕
-{% if project.tags.size > 0 %}
 
+{% if project.tags.size > 0 %}
   Tag{% if project.tags.size > 1 %}s{% endif %}:
   {{ project.tags | sort | join: ", " }}
 {% endif %}
