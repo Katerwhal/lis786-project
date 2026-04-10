@@ -11,7 +11,7 @@ competencies: [ LIS standards and ethics, Universal Design for Learning principl
 Materials worked with:
 
 {% for material in site.data.skills.materials %}
-{{ material | sort | join: ", " }}
+{{ material | join: ", " }}
 {% endfor %}
 
 {% include work.md %}
