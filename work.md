@@ -6,15 +6,15 @@ category: work
 skills: [ Oral and written communication, User centered design, Inclusive teaching and learning strategies, Research support, Mentoring and teamwork, Leadership ]
 competencies: [ LIS standards and ethics, Universal Design for Learning principles, ACRL Information Literacy frameworks, Metadata and archival description, Web design (HTML CSS PowerApps), Google and Microsoft office suites, Past Perfect ]
 ---
-Skills: {% for skill in site.data.skills.skills %}
+**Skills:** {% for skill in site.data.skills.skills %}
 {{ skill | join: ", " }}
 {% endfor %}
 
-Competencies: {% for competency in site.data.skills.competencies %}
+**Competencies:** {% for competency in site.data.skills.competencies %}
 {{ competency | join: ", " }}
 {% endfor %}
 
-Materials I've worked with: {% for material in site.data.skills.materials %}
+**Materials I've worked with:** {% for material in site.data.skills.materials %}
 {{ material | join: ", " }}
 {% endfor %}
 

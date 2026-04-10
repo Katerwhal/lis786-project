@@ -8,13 +8,13 @@
   {% endif %}  
 
 {% if project.skills.size > 0 %}
-  Skill{% if project.skills.size >1 %}s{% endif %}:
+  **Skill{% if project.skills.size >1 %}s{% endif %}:**
   {{ project.skills | sort | join: ", " }}
   <br>
   {% endif %}  
 
 {% if project.competencies.size > 0 %}
-  Competenc{% if project.competencies.size == 1 %}y{% endif %}{% if project.competencies.size > 1 %}ies{% endif %}:
+  **Competenc{% if project.competencies.size == 1 %}y{% endif %}{% if project.competencies.size > 1 %}ies{% endif %}:**
   {{ project.competencies | sort | join: ", " }}
   <br>
   {% endif %}  
