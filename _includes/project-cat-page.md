@@ -16,7 +16,10 @@
   Competenc{% if project.competencies.size == 1 %}y{% endif %}{% if project.competencies.size > 1 %}ies{% endif %}:
   {{ project.competencies | sort | join: ", " }}
   {% endif %}
+
+{% if project.description.size > 0 %}
   Description: {{ project.description }}
+  {% endif %}
 
 ***
 
