@@ -1,12 +1,5 @@
-ALL COLLECTIONS:
-{{ site.collections | inspect }}
-
-{% assign order = site.data.work-order %}
-{% for filename in order %}
-  {% assign work = site.collections.work.docs | where_exp: "item", "item.path contains filename" | first %}
-
+{% for work in site.work %}
 {% if work.category == page.category %}
-
 ## <u>{{ work.job-title }}</u>
 ### {{ work.employer }} - {{ work.location }}
 *{{ work.start-date | date: %B %Y }} - {{ work.end-date | date: %B %Y }}*
