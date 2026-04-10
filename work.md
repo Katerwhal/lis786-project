@@ -9,3 +9,9 @@ competencies: [ LIS standards and ethics, Universal Design for Learning principl
 {% include tags.md %}
 
 {% include work.md %}
+
+Materials worked with:
+
+{% for material in site.data.skills.materials %}
+- {{ material }}
+{% endfor %}
