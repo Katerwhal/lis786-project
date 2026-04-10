@@ -3,7 +3,7 @@ layout: collection_item
 title: Controlled Digital Lending
 category: Essays
 skills: [ Research, Written Communication ]
-compentencies:
+competencies:
 tags: [ Controlled Digital Lending, Access, Policy, Copyright ]
 permalink: /projects/essays/CDL-essay
 description: description placeholder

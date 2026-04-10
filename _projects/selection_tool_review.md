@@ -3,7 +3,7 @@ layout: collection_item
 title: Selection Tool Review -- Boardgames
 category: Collection Management
 skills:
-compentencies: 
+competencies: 
 tags: 
 permalink: /projects/collmgmt/selection-tool-review
 description: description placeholder
