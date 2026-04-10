@@ -7,12 +7,6 @@
   <br>
   {% endif %}  
 
-{% if project.tags.size > 0 %}
-  Tag{% if project.tags.size > 1 %}s{% endif %}:
-  {{ project.tags | sort | join: ", " }}
-  <br>
-{% endif %}  
-
 {% if project.skills.size > 0 %}
   Skill{% if project.skills.size >1 %}s{% endif %}:
   {{ project.skills | sort | join: ", " }}
