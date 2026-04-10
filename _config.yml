@@ -7,11 +7,6 @@ collections:
     output: true
   work:
     output: true
-    order: 
-      - archives-volunteer.md
-      - blend.md
-      - goodday.md
-      - IPPA.md
 
 
 defaults:
