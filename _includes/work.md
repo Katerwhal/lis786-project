@@ -1,6 +1,5 @@
-{% for w in site.collections.work.docs %}
-  <p>{{ w.job-title }}</p>
-{% endfor %}
+ALL COLLECTIONS:
+{{ site.collections | inspect }}
 
 {% assign order = site.data.work-order %}
 {% for filename in order %}
