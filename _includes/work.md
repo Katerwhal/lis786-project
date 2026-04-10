@@ -1,8 +1,6 @@
-{{ site.work | inspect }}
-
 {% assign order = site.data.work-order %}
 {% for filename in order %}
-  {% assign work = site.work | where: "name", filename | first %}
+  {% assign work = site.collections.work.docs | where_exp: "item", "item.path contains filename" | first %}
 
 {% if work.category == page.category %}
 
