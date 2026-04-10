@@ -9,7 +9,7 @@
   {% endif %}
 <br>
   {% if page.competencies.size > 0 %}
-    Competenc{% if page.competencies.size = 1 %}y{% endif %}{% if page.competencies.size > 1 %}ies{% endif %}:
+    Competenc{% if page.competencies.size == 1 %}y{% endif %}{% if page.competencies.size > 1 %}ies{% endif %}:
     {{ page.competencies | sort | join: ", " }}
     {% endif %}
     
