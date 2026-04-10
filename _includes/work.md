@@ -3,10 +3,10 @@
 ## <u>{{ work.job-title }}</u>
 ### {{ work.employer }} - {{ work.location }}
 *{{ work.start-date | date: %B %Y }} - {{ work.end-date | date: %B %Y }}*
-{% if page.duties.size > 0 %}
+{% if work.duties.size > 0 %}
 Duties:
 
-{% for duty in page.duties %}
+{% for duty in work.duties %}
 - {{ duty }}
 {% endfor %}
 {% endif %}
