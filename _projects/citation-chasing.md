@@ -8,6 +8,7 @@ tags: [ Research, Searching as Strategic Exploration ]
 permalink: /projects/teachinglearning/citation-chasing
 description: description placeholder
 backlink: /teachinglearning
+media: [ video, document ]
 ---
 
 placeholder for citation chasing content
