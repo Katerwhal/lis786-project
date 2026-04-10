@@ -5,22 +5,22 @@
 {% if project.description.size > 0 %}
   Description: {{ project.description }}
   {% endif %}  
-
+<br>
 {% if project.tags.size > 0 %}
   Tag{% if project.tags.size > 1 %}s{% endif %}:
   {{ project.tags | sort | join: ", " }}
 {% endif %}  
-
+<br>
 {% if project.skills.size > 0 %}
   Skill{% if project.skills.size >1 %}s{% endif %}:
   {{ project.skills | sort | join: ", " }}
   {% endif %}  
-
+<br>
 {% if project.competencies.size > 0 %}
   Competenc{% if project.competencies.size == 1 %}y{% endif %}{% if project.competencies.size > 1 %}ies{% endif %}:
   {{ project.competencies | sort | join: ", " }}
   {% endif %}  
-
+<br>
 ***
 
 {% endif %}
