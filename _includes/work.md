@@ -1,4 +1,7 @@
-{% for work in site.work %}
+{% assign order = site.collections.work.order %}
+{% for filename in order %}
+  {% assign work = site.work | where: "name", filename | first %}
+
 {% if work.category == page.category %}
 ## <u>{{ work.job-title }}</u>
 ### {{ work.employer }} - {{ work.location }}
