@@ -1,5 +1,5 @@
 {% for project in site.projects %}
-### [{{ project.title }}]({{ project.permalink | relative_url }}{{(project.category)}}) ⮕
+### [{{ project.title }}]({{ project.permalink | relative_url }}) ({{ project.category }}) ⮕
 
 {% if project.tags.size > 0 %}
   Tag{% if project.tags.size > 1 %}s{% endif %}:
