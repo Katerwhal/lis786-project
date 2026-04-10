@@ -1,3 +1,7 @@
+{% for w in site.collections.work.docs %}
+  <p>{{ w.job-title }}</p>
+{% endfor %}
+
 {% assign order = site.data.work-order %}
 {% for filename in order %}
   {% assign work = site.collections.work.docs | where_exp: "item", "item.path contains filename" | first %}
