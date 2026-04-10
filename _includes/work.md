@@ -1,3 +1,5 @@
+{{ site.work | inspect }}
+
 {% assign order = site.data.work-order %}
 {% for filename in order %}
   {% assign work = site.work | where: "name", filename | first %}
