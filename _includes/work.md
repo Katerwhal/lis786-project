@@ -7,7 +7,7 @@
 {% for duty in page.duties %}
 Duties:
 
-- {{ duty }}
+- {{ page.duties }}
 {% endfor %}
 {% endif %}
 {% endif %}
