@@ -1,5 +1,5 @@
 {% if page.tags.size > 0 %}
-  **Tag{% if page.tags.size > 1 %}s{% endif %}:**
+  <b>Tag{% if page.tags.size > 1 %}s{% endif %}:</b>
   {{ page.tags | sort | join: ", " }}
   <br>
 {% endif %}  
@@ -11,7 +11,7 @@
 {% endif %}  
 
 {% if page.competencies.size > 0 %}
-**Competenc{% if page.competencies.size == 1 %}y{% endif %}{% if page.competencies.size > 1 %}ies{% endif %}:**
+__Competenc{% if page.competencies.size == 1 %}y{% endif %}{% if page.competencies.size > 1 %}ies{% endif %}:__
 {{ page.competencies | sort | join: ", " }}
 <br>
 {% endif %}  
