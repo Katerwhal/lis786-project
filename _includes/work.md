@@ -3,7 +3,7 @@
   {% assign work = site.work | where: "name", filename | first %}
 
 {% if work.category == page.category %}
->>>>>>> 23729037a900d51c8dad3009e49ecd3742e3fcaf
+
 ## <u>{{ work.job-title }}</u>
 ### {{ work.employer }} - {{ work.location }}
 *{{ work.start-date | date: %B %Y }} - {{ work.end-date | date: %B %Y }}*
