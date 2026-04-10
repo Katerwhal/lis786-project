@@ -5,8 +5,9 @@
 ### {{ work.location }}
 *{{ work.start-date | date: %B %Y }} - {{ work.end-date | date: %B %Y }}*
 {% if page.duties.size > 0 %}
-{% assign sorted_duties = page.duties | sort_natural %}
-{% for duty in sorted_duties %}
+{% for duty in page.duties %}
+Duties:
+
 - {{ duty }}
 {% endfor %}
 {% endif %}
