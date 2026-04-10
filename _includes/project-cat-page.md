@@ -16,9 +16,11 @@
   Competenc{% if project.competencies.size == 1 %}y{% endif %}{% if project.competencies.size > 1 %}ies{% endif %}:
   {{ project.competencies | sort | join: ", " }}
   {% endif %}
-{% endif %}
-Description: {{ project.description }}
+  Description: {{ project.description }}
+
 ***
+
+{% endif %}
 {% endfor %}
 
 <a href="/lis786-project/projects">Back to Projects ⮌</a>
