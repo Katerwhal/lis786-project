@@ -5,4 +5,4 @@
 {% endif %}
 {% endfor %}
 
-<a href="/lis786-project/projects">Back to Projects</a>
+<a href="/lis786-project/projects">Back to Projects ⮌</a>
