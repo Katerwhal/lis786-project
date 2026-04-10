@@ -3,7 +3,7 @@
 ### [{{ project.title }}]({{ project.permalink | relative_url }}) ⮕
 
 {% if project.description.size > 0 %}
-  Description: {{ project.description }}
+  {{ project.description }}
   <br>
   {% endif %}  
 
