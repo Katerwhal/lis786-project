@@ -14,12 +14,7 @@ body {
 
 .site-footer {
     background-color: #65A2CF;
-}
-
-.footer-col-wrapper,
-.social-links {
-  color: black;
-  a {
+      a {
     color: black;
     text-decoration: underline;
   }
@@ -27,6 +22,11 @@ body {
     color: black;
     text-decoration: underline;
   }
+}
+
+.footer-col-wrapper,
+.social-links {
+  color: black;
 }
 
 a {
