@@ -19,6 +19,14 @@ body {
 .footer-col-wrapper,
 .social-links {
   color: black;
+  a {
+    color: black;
+    text-decoration: underline;
+  }
+  &:visited {
+    color: black;
+    text-decoration: underline;
+  }
 }
 
 a {
