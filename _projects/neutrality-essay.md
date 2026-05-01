@@ -11,4 +11,4 @@ backlink: /essays
 media: [ document ]
 ---
 
-<iframe width="700" height="1000" src="https://docs.google.com/document/d/e/2PACX-1vQFg5dEKKRK8bUvMOggXMPFse3mciqW8k5kpS7djs4xm7kmqlSy9uRz0wwMkgusGw/pub?embedded=true"></iframe>
+<iframe class="doc" src="https://docs.google.com/document/d/e/2PACX-1vQFg5dEKKRK8bUvMOggXMPFse3mciqW8k5kpS7djs4xm7kmqlSy9uRz0wwMkgusGw/pub?embedded=true"></iframe>
