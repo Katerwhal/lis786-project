@@ -6,7 +6,7 @@ skills: [ Written Communication, Inclusive Teaching and Learning Strategies, Acc
 competencies: [ LIS Standards and Ethics, Universal Design for Learning,  ]
 tags: [ Inclusive Design ]
 permalink: /projects/profcomm/inclusive-programming
-description: description placeholder
+description: Powerpoint advocating for increased inclusive programming for adults and children in a public library. Includes clear goal statement, design thinking plan, cost and SWOT analyses, and executive summary.
 backlink: /profcomm
 media: [ powerpoint ]
 ---

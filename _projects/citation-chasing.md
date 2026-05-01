@@ -10,9 +10,6 @@ description: A presention on citation chasing, intended for late high school/ear
 backlink: /teachinglearning
 media: [ video, document ]
 ---
-<video width="640" height="389" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1CpNIHPnNJ4K461Iy1Rqn_gI8X5-dTW-c">
-  Your browser does not support the video tag. <!-- Fallback text -->
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExkLU0toL30?si=CdH23lqzvlfdlzfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
-<iframe width="700" height="1600" src="https://docs.google.com/document/d/e/2PACX-1vSGNJqhHak0lkUiVDovjGHSBJ86kCJ4_VgxEBfhTYAXE-1dPGscx89BgOwAEcbRGQ/pub?embedded=true"></iframe>
+<iframe width="700" height="1200" src="https://docs.google.com/document/d/e/2PACX-1vSGNJqhHak0lkUiVDovjGHSBJ86kCJ4_VgxEBfhTYAXE-1dPGscx89BgOwAEcbRGQ/pub?embedded=true"></iframe>
