@@ -11,7 +11,4 @@ backlink: /teachinglearning
 Media: [ video ]
 ---
 
-<video width="700" height="auto" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1i-S1x1oU9YssAk_PwL41R04TtEHoDBwP">
-  Your browser does not support the video tag. <!-- Fallback text -->
-</video>
+<iframe width="640" height="389" src="https://www.youtube.com/embed/LNYMUw5Sj8k?si=u7MiX47ZP7aNhsDh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

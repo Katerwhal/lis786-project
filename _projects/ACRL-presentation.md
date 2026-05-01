@@ -11,4 +11,4 @@ backlink: /teachinglearning
 media: [ powerpoint ]
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZfdrJs5qVKTRoNtPmMXk-AQhfrN94SN_LtibHbyg6MXKP7tzQI0hmOXqB3JyeFw/pubembed?start=false&loop=true&delayms=5000" frameborder="0" width="700" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZfdrJs5qVKTRoNtPmMXk-AQhfrN94SN_LtibHbyg6MXKP7tzQI0hmOXqB3JyeFw/pubembed?start=false&loop=true&delayms=5000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
