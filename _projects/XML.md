@@ -11,5 +11,14 @@ backlink: /archival
 media: [ link ]
 ---
 Open each link to see the raw XML code.
-
-[MODS - Photograph](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_MODS.xml)
+# Simple Dublin Core 
+[DC record 1](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_SimpleDC.xml)
+[DC record 2](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_Record1.xml)
+# Qualified Dublin Core
+[QDC record 1](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_Record2.xml)
+[QDC record 2](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_QualifiedDC.xml)
+# MODS
+[MODS record 1](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_MODS.xml)
+[MODS record 2](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_Record3.xml)
+# VRA
+[VRA record 1](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_VRACore.xml)
