@@ -12,4 +12,4 @@ media: [ link ]
 ---
 Open each link to see the raw XML code.
 
-[MODS - photograph](assets/Erickson_MODS.xml)
+[MODS - Photograph](https://github.com/Katerwhal/lis786-project/raw/main/assets/Erickson_MODS.xml)
