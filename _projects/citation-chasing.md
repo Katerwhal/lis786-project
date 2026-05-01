@@ -11,6 +11,5 @@ backlink: /teachinglearning
 media: [ video, document ]
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExkLU0toL30?si=CdH23lqzvlfdlzfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<video width="560" height="315" src="https://www.youtube.com/embed/ExkLU0toL30?si=CdH23lqzvlfdlzfN">
 <br>
 <iframe class="doc" src="https://docs.google.com/document/d/e/2PACX-1vSGNJqhHak0lkUiVDovjGHSBJ86kCJ4_VgxEBfhTYAXE-1dPGscx89BgOwAEcbRGQ/pub?embedded=true"></iframe>
