@@ -11,6 +11,6 @@ backlink: /essays
 media: [ document, PDF ]
 ---
 
-<iframe width="700" height="1200" src="https://docs.google.com/document/d/e/2PACX-1vQN_4U3gKQZN9r0AilPn4W0vA88MW8sckVTa8-tNEtnhYeQ7_u88wyQa_eNBsN9zw/pub?embedded=true"></iframe>
+<iframe width="700" height="1000" src="https://docs.google.com/document/d/e/2PACX-1vQN_4U3gKQZN9r0AilPn4W0vA88MW8sckVTa8-tNEtnhYeQ7_u88wyQa_eNBsN9zw/pub?embedded=true"></iframe>
 <br>
 <iframe src="https://drive.google.com/file/d/16GPy9kspAKnLVPx6h7xdICxubjjFxPIz/preview" width="640" height="480"></iframe>
