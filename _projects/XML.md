@@ -6,7 +6,10 @@ skills: [ Written Communication, Research Support ]
 competencies: [ LIS Standards, Metadata and Archival Description, XML ]
 tags: [ Research, Archives, Metadata, History ]
 permalink: /projects/archival/XML
-description: description placeholder
+description: View completed XML files for items in Simple Dublin core, Qualified Dublin Core, MODS, and VRA.
 backlink: /archival
-media: [ PDF ]
+media: [ link ]
 ---
+Open each link to see the raw XML code.
+
+[MODS - photograph](assets/Erickson_MODS.xml)
