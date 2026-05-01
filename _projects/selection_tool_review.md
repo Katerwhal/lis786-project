@@ -1,6 +1,6 @@
 ---
 layout: collection_item
-title: Selection Tool Review -- Boardgames
+title: Selection Tool Review - Boardgames
 category: Collection Management
 skills: [ Written communication, Research support ]
 competencies: [ LIS standards and ethics ]

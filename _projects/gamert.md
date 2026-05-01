@@ -11,4 +11,7 @@ backlink: /teachinglearning
 Media: [ video ]
 ---
 
-placeholder for CDL essay content
+<video width="640" height="360" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1i-S1x1oU9YssAk_PwL41R04TtEHoDBwP" type="video/mp4">
+  Your browser does not support the video tag. <!-- Fallback text -->
+</video>
