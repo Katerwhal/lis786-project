@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://purl.org/dc/terms/ qualifieddc.xsd">
+    
+    <dc:title>Messenger boy working for Mackay Telegraph Company</dc:title>
+    <dc:description>Messenger boy working for Mackay Telegraph Company. Said fifteen years old. Exposed to
+        Red Light dangers. Location: Waco, Texas</dc:description>
+    <dc:creator xsi:type="dcterms:LCNAF"></dc:creator>
+    <dcterms:created xsi:type="dcterms:W3CDTF">1913-09</dcterms:created>
+    <dcterms:subject xsi:type="dcterms:AAT">Boys</dcterms:subject>
+    <dcterms:subject xsi:type="dcterms:AAT">Red-light districts</dcterms:subject>
+    <dcterms:subject xsi:type="dcterms:TGM">Messengers-Texas-Waco</dcterms:subject>
+    <dcterms:subject xsi:type="dcterms:LCSH">Bicycle messengers</dcterms:subject>
+    <dcterms:subject xsi:type="dcterms:LCSH">Bicycles</dcterms:subject>
+    <dcterms:spatial xsi:type="dcterms:TGN">North and Central America</dcterms:spatial>
+    <dcterms:spatial xsi:type="dcterms:TGN">United States</dcterms:spatial>
+    <dcterms:spatial xsi:type="dcterms:TGN">Texas</dcterms:spatial>
+    <dcterms:spatial xsi:type="dcterms:TGN">Waco</dcterms:spatial>
+    <dcterms:type xsi:type="dcterms:DCMIType">StillImage</dcterms:type>
+    <dcterms:extent>8 x 12 inches</dcterms:extent>
+    <dcterms:medium>Black and White print photograph</dcterms:medium>
+    <dcterms:isPartOf>Photographs from the records of the National Child Labor Committee (U.S.) 2004667950</dcterms:isPartOf>
+    <dcterms:isPartOf>Library of Congress Prints and Photographs Division Washington, D.C. 20540</dcterms:isPartOf>
+    <dcterms:identifier>LC-DIG-nclc-03870</dcterms:identifier>
+    <dcterms:identifier xsi:type="dcterms:URI">hdl.loc.gov/loc.pnp/nclc.03870</dcterms:identifier>
+    <dcterms:rights>No known restrictions on publication.</dcterms:rights>
+    <dcterms:publisher>Library of Congress</dcterms:publisher>
+    <dcterms:format xsi:type="dcterms:IMT">image/tiff</dcterms:format>
+    <dcterms:created xsi:type="dcterms:W3CDTF">2009-02-12</dcterms:created>
+
+</metadata>

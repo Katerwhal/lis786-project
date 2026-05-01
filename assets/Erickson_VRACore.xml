@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm 
+     http://www.loc.gov/standards/vracore/vra-strict.xsd">
+
+     <work id="w_12784" refid="2014.265" source="Whitney Museum of American Art, New York">
+          
+          <agentSet>
+               <display>Keith Haring (American painter, muralist, and cartoonist, 1958-1990)</display>
+               <agent>
+                    <name type="personal" vocab="ULAN" refid="500024253" href="http://vocab.getty.edu/page/ulan/500024253">Haring, Keith</name>
+                    <culture vocab="ULAN Nationalities and Places" href="https://www.getty.edu/publications/vocabularies-editorial-guidelines/ulan-guidelines/4_appendices/4.7/" refid="990110">
+                         American</culture>
+                    <dates type="life">
+                         <earliestDate>1958</earliestDate>
+                         <latestDate>1990</latestDate>
+                    </dates>
+                    <role vocab="AAT" refid="300025103" href="http://vocab.getty.edu/page/aat/300025103">Artist (visual artist)</role>
+               </agent>
+               <agent>
+                    <name type="corporate" vocab="LCNAF" refid="n90640141">ACT UP (Organization)</name>
+                    <role vocab="AAT" refid="300025574">Publisher</role>
+               </agent>
+          </agentSet>
+          
+          <culturalContextSet>
+               <culturalContext vocab="ULAN Nationalities and Places" href="https://www.getty.edu/publications/vocabularies-editorial-guidelines/ulan-guidelines/4_appendices/4.7/" refid="990110">
+                    American</culturalContext>
+          </culturalContextSet>
+          
+          <dateSet>
+               <display>Created in 1989, on exhibition from August 18, 2017 to August 27, 2018</display>
+               <date type="creation">
+                    <earliestDate>1989</earliestDate>
+                    <latestDate>1989</latestDate>
+               </date>
+               <date type="exhibition">
+                    <earliestDate>2017-08-18</earliestDate>
+                    <latestDate>2018-08-27</latestDate>
+               </date>
+          </dateSet>
+          
+          <descriptionSet>
+               <display>Vibrant artwork featuring three yellow figures with pink crosses over their bodies, each covering their eyes, ears, and mouth respectively, against a bright orange background with radiating lines. Above, the text "IGNORANCE = FEAR" in blue, and below, "SILENCE = DEATH" alongside "FIGHT AIDS ACT UP" with a pink triangle. The style is reminiscent of Keith Haring's work.</display>
+               <description source="Whitney Museum of American Art, New York">Vibrant artwork featuring three yellow figures with pink crosses over their bodies, each covering their eyes, ears, and mouth respectively, against a bright orange background with radiating lines. Above, the text "IGNORANCE = FEAR" in blue, and below, "SILENCE = DEATH" alongside "FIGHT AIDS ACT UP" with a pink triangle. The style is reminiscent of Keith Haring's work.</description>
+          </descriptionSet>
+          
+          <inscriptionSet>
+               <display>IGNORANCE = FEAR at the top, SILENCE = DEATH FIGHT AIDS ACT UP at the bottom, signed on right side (rotated), (c) K. Haring 89</display>
+               <inscription>
+                    <author vocab="ULAN" refid="500024253" href="http://vocab.getty.edu/page/ulan/500024253">Haring, Keith</author>
+                    <position>Top of image</position>
+                    <text>IGNORANCE = FEAR</text>
+               </inscription>
+               <inscription>
+                    <author vocab="ULAN" refid="500024253" href="http://vocab.getty.edu/page/ulan/500024253">Haring, Keith</author>
+                    <position>Bottom of image</position>
+                    <text>SILENCE = DEATH FIGHT AIDS ACT UP</text>
+               </inscription>
+               <inscription>
+                    <author vocab="ULAN" refid="500024253" href="http://vocab.getty.edu/page/ulan/500024253">Haring, Keith</author>
+                    <position>Right side of image, rotated</position>
+                    <text type="signature">(c) K. Haring 89</text>
+               </inscription>
+          </inscriptionSet>
+          
+          <locationSet>
+               <display>Held at the Whitney Museum of American Art, New York 2014.265</display>
+               <location type="repository">
+                    <name type="corporate">Whitney Museum of American Art</name>
+                    <name type="geographic" vocab="TGN" refid="7007567" extent="inhabited place">New York</name>
+                    <name type="geographic" vocab="TGN" refid="7007568" extent="state">New York</name>
+                    <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                    <refid type="accession">2014.265</refid>
+               </location>
+               <location type="formerOwner">
+                    <name type="personal" vocab="LCNAF" refid="n87875378">Kiehl, David W.</name>
+               </location>
+               <location type="exhibition">
+                    <name type="other">An Incomplete History of Protest: Selections from the Whitney’s Collection, 1940–2017</name>
+               </location>
+          </locationSet>
+          
+          <materialSet>
+               <display>Offset lithograph</display>
+               <material type="medium" vocab="AAT" refid="300192896">Offset lithograph</material>
+          </materialSet>
+          
+          <measurementsSet>
+               <display>Sheet: 24 1/16 × 43 1/16in. (61.1 × 109.4 cm) Image: 24 1/16 × 43 1/16in. (61.1 × 109.4 cm)</display>
+               <measurements type="height" unit="in" extent="Sheet">24 1/16</measurements>
+               <measurements type="height" unit="cm" extent="Sheet">61.1</measurements>
+               <measurements type="width" unit="in" extent="Sheet">43 1/16</measurements>
+               <measurements type="width" unit="cm" extent="Sheet">109.4</measurements>
+               <measurements type="height" unit="in" extent="Image">24 1/16</measurements>
+               <measurements type="height" unit="cm" extent="Image">61.1</measurements>
+               <measurements type="width" unit="in" extent="Image">43 1/16</measurements>
+               <measurements type="width" unit="cm" extent="Image">109.4</measurements>
+          </measurementsSet>
+          
+          <relationSet>
+               <relation type="imageIs" relids="i_0012" href="http://www.bliss.edu/digitalmuseum/">Detail of signature</relation>
+               <relation type="imageIs" relids="i_0013" href="http://www.bliss.edu/artdepartment/">Full view of Ignorance = Fear / Silence = Death</relation>
+          </relationSet>
+          
+          <rightsSet>
+               <display>Rights and reproductions © Keith Haring Foundation</display>
+               <rights type="copyrighted">
+                    <rightsHolder>Keith Haring Foundation</rightsHolder>
+                    <text>Rights and reproductions © Keith Haring Foundation</text>
+               </rights>
+          </rightsSet>
+          
+          <sourceSet>
+               <display>Whitney Museum of American Art, New York; gift of David W. Kiehl in honor of Patrick Moore</display>
+               <source>
+                    <name type="electronic">Whitney Museum of American Art website</name>
+                    <refid type="URI">https://whitney.org/collection/works/46387</refid>
+               </source>
+               <source>
+                    <name type="donor" vocab="LCNAF" refid="n87875378">Kiehl, David W.</name>
+               </source>
+          </sourceSet>
+          
+          <stylePeriodSet>
+               <display>Neo-Expressionist Style</display>
+               <stylePeriod vocab="AAT" refid="300022189" source="Artchive" href="https://www.artchive.com/artwork/ignorance-fear-keith-haring-1989/">
+                    Neo-Expressionist</stylePeriod>
+          </stylePeriodSet>
+          
+          <subjectSet>
+               <display>AIDS (medical syndrome)</display>
+               <subject>
+                    <term vocab="AAT" refid="300410394">AIDS (medical syndrome)</term>
+               </subject>
+          </subjectSet>
+          
+          <techniqueSet>
+               <display>Offset lithography</display>
+               <technique vocab="AAT" refid="300192900">offset lithography</technique>
+          </techniqueSet>
+          
+          <titleSet>
+               <display>Ignorance = Fear / Silence = Death</display>
+               <title type="repository" source="Whitney Museum of American Art, New York" pref="true">Ignorance = Fear / Silence = Death</title>
+          </titleSet>
+          
+          <worktypeSet>
+               <display>Offset lithography</display>
+               <worktype vocab="AAT" refid="300192896">Offset lithograph</worktype>
+          </worktypeSet>
+          
+     </work>
+     
+     <image id="i_0012" refid="BDM_836" source="Bliss University Digital Museum, Fargo, North Dakota">
+          
+          <agentSet>
+               <display>Barbara R. Bradley, photographer</display>
+               <agent>
+                    <name type="personal">Bradley, Barbara R.</name>
+                    <role vocab="AAT" refid="300386243">Digital photographer</role>
+               </agent>
+          </agentSet>
+          
+          <dateSet>
+               <display>Photographed on September 2, 2014</display>
+               <date type="view">
+                    <earliestDate>2014-09-02</earliestDate>
+                    <latestDate>2014-09-02</latestDate>
+               </date>
+          </dateSet>
+          
+          <descriptionSet>
+               <display>This image was captured while the work was on display at the Whitney Museum of American Art</display>
+               <description>This image was captured while the work was on display at the Whitney Museum of American Art</description>
+          </descriptionSet>
+          
+          <locationSet>
+               <display>Part of the Famous Artwork of the World digital collection hosted by the Bliss University Digital Museum, Fargo, North Dakota</display>
+               <location type="repository" href="Bliss University Digital Museum, Fargo, North Dakota">
+                    <name type="corporate">Bliss University Digital Museum, Fargo, North Dakota</name>
+                    <name type="geographic" vocab="TGN" refid="2077588" extent="inhabited place">Fargo</name>
+                    <name type="geographic" vocab="TGN" refid="7007705" extent="state">North Dakota</name>
+                    <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                    <refid type="accession">BDM_836</refid>
+               </location>
+          </locationSet>
+          
+          <measurementsSet>
+               <display>image/jpeg; 6 MB</display>
+               <measurements>image/jpeg</measurements>
+               <measurements type="fileSize" unit="mb">6</measurements>
+          </measurementsSet>
+          
+          <relationSet>
+               <display>Image of Ignorance = Fear / Silence = Death by Keith Haring</display>
+               <relation type="imageOf" relids="w_12784" href="https://whitney.org/collection/works/46387">Ignorance = Fear / Silence = Death</relation>
+               <relation type="partOf" href="http://www.bliss.edu/digitalmuseum/">Famous Artwork of the World digital collection</relation>
+          </relationSet>
+          
+          
+          <rightsSet>
+               <display>The contents of this site, including all images and text, are for personal, educational, non-commercial use only. The contents of this site maynot be reproduced in any form without the permission of the Bliss University Digital Museum.</display>
+               <rights>
+                    <rightsHolder>Bliss University Digital Museum</rightsHolder>
+                    <text>The contents of this site, including all images and text, are for personal, educational, non-commercial use only. The contents of this site may not be reproduced in any form without the permission of the Bliss University Digital Museum.</text>
+               </rights>
+          </rightsSet>
+          
+          <sourceSet>
+               <display>Bliss University Digital Museum</display>
+               <source>
+                    <name type="electronic">Bliss University Digital Museum</name>
+                    <refid type="URI">http://www.bliss.edu/digitalmuseum/</refid>
+               </source>
+          </sourceSet>
+          
+          <techniqueSet>
+               <display>digital photography (digital camera)</display>
+               <technique vocab="AAT" refid="300386812">digital photography (digital camera)</technique>
+          </techniqueSet>
+          
+          <titleSet>
+               <display>Detail of signature</display>
+               <title type="partialView" pref="true">Detail of signature</title>
+               <title type="repository" pref="false">BDM_836.jpg</title>
+          </titleSet>
+          
+          <worktypeSet>
+               <display>Digital image</display>
+               <worktype vocab="AAT" refid="300215302">digital image</worktype>
+          </worktypeSet>
+          
+     </image>
+     
+     <image id="i_0013" refid="cs16924" source="Bliss University Art Department, Fargo, North Dakota">
+          
+          <agentSet>
+               <display>Elmer S. Monroe, photographer</display>
+               <agent>
+                    <name type="personal"> Monroe, Elmer S.</name>
+                    <role vocab="AAT" refid="300025687">Photographer</role>
+               </agent>
+          </agentSet>
+          
+          <dateSet>
+               <display>Photographed on May 7, 2000</display>
+               <date type="view">
+                    <earliestDate>2000-05-07</earliestDate>
+                    <latestDate>2000-05-07</latestDate>
+               </date>
+          </dateSet>
+          
+          <descriptionSet>
+               <display>This image was captured while the work was on display at the Whitney Museum of American Art</display>
+               <description>This image was captured while the work was on display at the Whitney Museum of American Art</description>
+          </descriptionSet>
+          
+          <locationSet>
+               <display>Part of the Famous Artwork Slide Collection held at the Bliss University Art Department, Fargo, North Dakota</display>
+               <location type="repository">
+                    <name type="corporate">Bliss University Art Department</name>
+                    <name type="geographic" vocab="TGN" refid="2077588" extent="inhabited place">Fargo</name>
+                    <name type="geographic" vocab="TGN" refid="7007705" extent="state">North Dakota</name>
+                    <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                    <refid type="accession">cs16924</refid>
+               </location>
+          </locationSet>
+          
+          <materialSet>
+               <display>35 mm color slide</display>
+               <material vocab="AAT" refid="300128366" type="medium">color slide</material>
+               <material vocab="AAT" refid="300263816" type="support">35mm (photographic film size)</material>
+          </materialSet>
+          
+          <measurementsSet>
+               <display>35 mm x 35 mm</display>
+               <measurements type="height" unit="mm">35</measurements>
+               <measurements type="width" unit="mm">35</measurements>
+          </measurementsSet>
+          
+          <relationSet>
+               <display>Image of Ignorance = Fear / Silence = Death by Keith Haring</display>
+               <relation type="imageOf" relids="w_12784" href="https://whitney.org/collection/works/46387">Ignorance = Fear / Silence = Death</relation>
+               <relation type="partOf" href="http://www.bliss.edu/artdepartment/">Famous Artwork Slide Collection</relation>
+          </relationSet>
+          
+          <sourceSet>
+               <display>Bliss University Art Department</display>
+               <source>
+                    <name type="electronic">Bliss University Art Department</name>
+                    <refid type="URI">http://www.bliss.edu/artdepartment/</refid>
+               </source>
+          </sourceSet>
+          
+          <techniqueSet>
+               <display>Color Photography with a 35mm camera</display>
+               <technique vocab="AAT" refid="300134530">Color photography</technique>
+               <technique vocab="AAT" refid="300022638">35mm camera</technique>
+          </techniqueSet>
+          
+          <titleSet>
+               <display>Full view of Ignorance = Fear / Silence = Death by Keith Haring</display>
+               <title type="generalView">Full view of Ignorance = Fear / Silence = Death by Keith Haring</title>
+          </titleSet>
+          
+          <worktypeSet>
+               <display>Color slide</display>
+               <worktype vocab="AAT" refid="300128366">Color slide</worktype>
+          </worktypeSet>
+          
+     </image>
+
+</vra>

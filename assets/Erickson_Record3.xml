@@ -1,0 +1,68 @@
+<mods xmlns="http://www.loc.gov/mods/v3"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+
+  <titleInfo>
+    <title>The Magically Expanding Bookcase</title>
+  </titleInfo>
+
+  <abstract displayLabel="Content Description">Bookcase of Kate Erickson, staff librarian. Books are separated into fiction and non-fiction, sorted by author's last name. Shelves also contain plushies, candles, and 3D printed objects, among other items.</abstract>
+
+  <name type="personal" authority="local">
+    <displayForm>Kate Erickson</displayForm>
+    <namePart type="given">Kate</namePart>
+    <namePart type="family">Erickson</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Photographer</roleTerm>
+      <roleTerm authority="marcrelator" type="code">pht</roleTerm>
+    </role>
+  </name>
+  
+  <originInfo>
+    <dateCreated encoding="w3cdtf">2025-11-29</dateCreated>
+    <place>
+      <placeTerm authority="TGN" type="text">North and Central America</placeTerm>
+      <placeTerm authority="TGN" type="code">1000001</placeTerm>
+      <placeTerm authority="TGN" type="text">United States</placeTerm>
+      <placeTerm authority="TGN" type="code">7012149</placeTerm>
+      <placeTerm authority="TGN" type="text">Colorado</placeTerm>
+      <placeTerm authority="TGN" type="code">7007158</placeTerm>
+      <placeTerm authority="TGN" type="text">Loveland</placeTerm>
+      <placeTerm authority="TGN" type="code">2015922</placeTerm>
+    </place>
+    <agent type="corporate">
+      <namePart>Noble Public Library</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">Publisher</roleTerm>
+        <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+      </role>
+    </agent>
+  </originInfo>
+  
+  <typeOfResource authority="DCMItype">StillImage</typeOfResource>
+
+  <subject>
+    <topic authority="LCSH">Bookcases</topic>
+    <topic authority="AAT">Stuffed Toys</topic>
+    <topic authority="AAT">Candles</topic>
+    <topic authority="AAT">3-D Printed Objects</topic>
+  </subject>
+  
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Shelfies: A Librarian's Perspective</title>
+    </titleInfo>
+  </relatedItem>
+  
+  <identifier>shelfie_2025_0095</identifier>
+  
+  <accessCondition type="use and reproduction">Copyright (c) 2025 Noble Public Library</accessCondition>
+  
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>born digital</digitalOrigin>
+    <note type="physical description">5 total shelves available.</note>
+    <note type="organization">Follows a specific organization scheme?: yes.</note>
+  </physicalDescription>
+
+</mods>

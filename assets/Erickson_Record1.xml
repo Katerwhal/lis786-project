@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<my:simpledc xmlns:my="http://example.org/appsimpledc/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://example.org/appsimpledc/ 
+    https://www.dublincore.org/schemas/xmls/qdc/2008/02/11/appsimpledc.xsd">
+
+    <dc:title>The Magically Expanding Bookcase</dc:title>
+    <dc:description>Bookcase of Kate Erickson, staff librarian. Books are separated into fiction and non-fiction, sorted by author's last name. Shelves also contain plushies, candles, and 3D printed objects, among other items. 
+    </dc:description>
+    <dc:creator>Erickson, Kate</dc:creator>
+    <dc:date>2025-11-29</dc:date>
+    <dc:subject>Bookcases</dc:subject>
+    <dc:subject>Stuffed Toys</dc:subject>
+    <dc:subject>Candles</dc:subject>
+    <dc:subject>3-D Printed Objects</dc:subject>
+    <dc:coverage>North and Central America</dc:coverage>
+    <dc:coverage>United States</dc:coverage>
+    <dc:coverage>Colorado</dc:coverage>
+    <dc:coverage>Loveland</dc:coverage>
+    <dc:type>StillImage</dc:type>
+    <dc:publisher>Noble Public Library</dc:publisher>
+    <dc:relation>Shelfies: A Librarian's Perspective</dc:relation>
+    <dc:identifier>shelfie_2025_0095</dc:identifier>
+    <dc:rights>Copyright (c) 2025 Noble Public Library</dc:rights>
+    <dc:format>image/jpeg</dc:format>
+    <dc:description>5 total shelves available</dc:description>
+    <dc:description>Follows a specific organization scheme?: yes</dc:description>
+    
+</my:simpledc>

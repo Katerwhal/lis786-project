@@ -1,0 +1,131 @@
+<mods xmlns="http://www.loc.gov/mods/v3"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-8.xsd">
+
+  <recordInfo>
+    <recordContentSource>Kate Erickson</recordContentSource>
+    <recordCreationDate>2025-10-26</recordCreationDate>
+    <recordOrigin>Human prepared</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm type="code" authorityURI="https://www.loc.gov/marc/languages/language_code.html">Eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+
+  <originInfo>
+    <place>
+      <placeTerm type="text">Algeo Family Farm, Nova, Ohio</placeTerm>
+    </place>
+    <dateCreated qualifier="approximate" encoding="w3cdtf" point="start">1984</dateCreated>
+    <dateCreated qualifier="approximate" encoding="w3cdtf" point="end">1986</dateCreated>
+    <dateCaptured encoding="w3cdtf">2012-08-13</dateCaptured>
+  </originInfo>
+
+  <name type="personal" authority="lcnaf">
+    <namePart type="given">Robert Glenn</namePart>
+    <namePart type="family">Ketchum</namePart>
+    <namePart type="date">1940-2001</namePart>
+    <displayForm>Robert Glenn Ketchum</displayForm>
+    <role>
+      <roleTerm authorityURI="https://www.loc.gov/marc/relators/relaterm.html" type="text">Photographer</roleTerm>
+      <roleTerm authorityURI="https://www.loc.gov/marc/relators/relaterm.html" type="code">pht</roleTerm>
+    </role>
+    <description>Robert Glenn Ketchum, renowned photographer, travelled the world to capture images of
+      famous trees.</description>
+  </name>
+  
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>Johnny Appleseed Rambo Apple Tree on the Algeo Family Farm, Nova, Ohio</title>  
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Johnny Appleseed Rambo Apple Tree</title>
+  </titleInfo>
+  
+  <subject>
+    <name authority="LCNAF">
+      <namePart type="given">Johnny</namePart>
+      <namePart type="family">Appleseed</namePart>
+      <namePart type="date">1774-1845</namePart>
+      <displayForm>Johnny Appleseed</displayForm>
+    </name>
+    <topic authority="AAT">Malus (genus)</topic>
+    <topic authority="TGM">Historic trees--Ohio--Nova</topic>
+    <topic authority="TGM">Apple trees--Ohio--Nova</topic>
+    <topic>Pyrus malus</topic>
+    <topic authority="LCSH">Apples</topic>
+    <hierarchicalGeographic authority="TGN">
+      <continent>North and Central America</continent>
+      <country>United States</country>
+      <state>Ohio</state>
+      <city>Nova</city>
+    </hierarchicalGeographic>
+  </subject>
+  
+  <typeOfResource authorityURI="http://id.loc.gov/vocabulary/resourceTypes/img">Still Image</typeOfResource>
+  <genre authorityURI="http://id.loc.gov/authorities/genreForms/gf2017027249">Photographs</genre>
+  <genre authorityURI="https://www.loc.gov/standards/valuelist/marcgt.html">Picture</genre>
+  
+  <physicalDescription>
+    <form authority="AAT">Color photograph</form>
+    <extent unit="inches">8 x 8</extent>
+  </physicalDescription>
+  
+  <identifier>RGK0779</identifier>
+  
+  <note>View of the Rambo Apple Tree on the Algeo family farm in Nova, Ohio. Believed to be the last
+    surviving apple tree planted by John Chapman (aka Johnny Appleseed) in the early 19th
+    century.</note>
+  
+  <location>
+    <physicalLocation>Bliss University Archives</physicalLocation>
+    <holdingSimple>
+      <copyInformation>
+        <subLocation>Robert Glenn Ketchum Collection of Photographs</subLocation>
+      </copyInformation>
+    </holdingSimple>
+  </location>
+  
+  <relatedItem>
+    <originInfo eventType="Digitization">
+      <agent>
+        <namePart>Bliss University Digital Archives</namePart>
+        <role>
+          <roleTerm authorityURI="https://www.loc.gov/marc/relators/relaterm.html" type="text">Publisher</roleTerm>
+          <roleTerm authorityURI="https://www.loc.gov/marc/relators/relaterm.html" type="code">pbl</roleTerm>
+        </role>
+        <role>
+          <roleTerm authorityURI="https://www.loc.gov/marc/relators/relaterm.html" type="text">Copyright holder</roleTerm>
+          <roleTerm authorityURI="https://www.loc.gov/marc/relators/relaterm.html" type="code">cph</roleTerm>
+        </role>
+      </agent>
+      <agent>
+        <namePart type="given">Laura</namePart>
+        <namePart type="family">Johnson</namePart>
+        <role>
+          <roleTerm>Digitizer</roleTerm>
+        </role>
+      </agent>
+      <copyrightDate>2012</copyrightDate>
+      <place>
+        <placeTerm>Fargo, North Dakota</placeTerm>
+      </place>
+    <dateIssued encoding="w3cdtf">2012-08-13</dateIssued>  
+    </originInfo>
+    <physicalDescription>
+      <form authority="IMT">Image/jpeg</form>
+    </physicalDescription>
+    <accessCondition>
+      <note>Copyright ©2012 Bliss University Digital Archives</note>
+    </accessCondition>
+    <location>
+      <url access="object in context">http://www.bliss.edu/digitalcollections</url>
+      <holdingSimple>
+        <copyInformation>
+          <subLocation>Famous Trees of the United States</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+    <identifier>IMG_2079</identifier>
+  </relatedItem>
+  
+  </mods>
