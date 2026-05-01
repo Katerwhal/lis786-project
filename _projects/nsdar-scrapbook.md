@@ -11,4 +11,4 @@ backlink: /archival
 media: [ spreadsheet ]
 ---
 Because another volunteer completed the finding aid for the first six volumes, I have ommited them from this sheet. Shared with permission.
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqjkUU-dDS_rBoIxtppXjw-d0XaVOixv_t6oV5VY7sVf3eo7dx4an8GRgM1CNvrEfvK6cXzh3w2-Cq/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe class="sheet" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTqjkUU-dDS_rBoIxtppXjw-d0XaVOixv_t6oV5VY7sVf3eo7dx4an8GRgM1CNvrEfvK6cXzh3w2-Cq/pubhtml?widget=true&amp;headers=false"></iframe>
