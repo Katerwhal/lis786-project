@@ -1,4 +1,5 @@
 {% for project in site.projects %}
+{% if project.media.size > 0 %}
 ### [{{ project.title }} ({{ project.category }})]({{ project.permalink | relative_url }}) ⮕
 
 {% if project.description.size > 0 %}
@@ -17,6 +18,8 @@
   {{ project.competencies | sort | join: ", " }}
   <br>
   {% endif %}
+  
+{% endif %}
 
 ***
 
