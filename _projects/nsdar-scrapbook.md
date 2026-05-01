@@ -5,7 +5,7 @@ category: Archival/Cataloging
 skills: [ Written Communication, Research Support ]
 competencies: [ LIS Standards, Metadata and Archival Description, Google Sheets ]
 tags: [ Research, Archives, Metadata, History ]
-permalink: /projects/archival/DAR-scrapbook
+permalink: /projects/archival/NSDAR-scrapbook
 description: A finding aid for a local organization's extensive scrapbook collection. Completed while volunteering at my local archives.
 backlink: /archival
 media: [ spreadsheet ]

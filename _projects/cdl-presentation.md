@@ -1,6 +1,6 @@
 ---
 layout: collection_item
-title: CDL Presentation
+title: Controlled Digital Lending Presentation
 category: Professional Communication
 skills: [ Oral Communication, Inclusive Teaching Strategies ]
 competencies: [ LIS Standards ]

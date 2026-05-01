@@ -1,6 +1,6 @@
 {% for project in site.projects %}
 {% if project.category == page.category %}
-### [{{ project.title }}]({{ project.permalink | relative_url ⮕ }}) 
+### [{{ project.title }}]({{ project.permalink | relative_url }}) ⮕
 
 {% if project.description.size > 0 %}
   {{ project.description }}
