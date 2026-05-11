@@ -23,3 +23,6 @@ author:
 description: Get to know your next favorite information professional. 
 
 exclude: [about]
+
+baseurl: ""
+url: eportfolio.kateincontext.com
