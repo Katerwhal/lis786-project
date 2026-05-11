@@ -4,7 +4,7 @@
 
 {% if project.description.size > 0 %}
   {{ project.description }}
-  <br>
+  <br> 
   {% endif %}  
 
 {% if project.skills.size > 0 %}
